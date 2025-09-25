@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Bich Nguyen  
 
-<!--
-**NguyenBich21/NguyenBich21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. in Business Data Analytics (Finance Specialization), IS-VNU (Expected Graduation: 2025)  
+📊 Interested in Data Analytics, Quantitative Finance, and Business Intelligence  
+🚀 Career goal: Becoming a Quantitative Researcher / Data Analyst in Finance  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Data Analysis: Python (pandas, numpy, matplotlib), SQL, Excel, BigQuery  
+- Statistics & Econometrics: Stata, OLS Regression, Portfolio Optimization  
+- Tools: Power BI, CPLEX  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- Aptis English B2 (British Council)  
+
+## 🔗 Connect with me
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/bich-nguyen-918760237/)  
+- Email: vantang200378@gmail.com 
+
+## 🚧 Upcoming Projects
+- Portfolio Optimization in Vietnam using CPLEX  
