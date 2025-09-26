@@ -13,7 +13,7 @@
 - Aptis English B2 (British Council)  
 
 ## 🔗 Connect with me
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/bich-nguyen-918760237/)  
+- LinkedIn: [linkedin.com/in/myprofile](https://www.linkedin.com/in/bich-nguyen-918760237/)  
 - Email: vantang200378@gmail.com 
 
 ## 🚧 Upcoming Projects
